@@ -1,0 +1,13 @@
+table {
+  background-color: #FCFCFC;
+  border:1px solid #C00000;
+}
+
+tr {
+  border:2px solid DodgerBlue;
+}
+
+td {
+  border:1px solid #00C000;
+}
+
